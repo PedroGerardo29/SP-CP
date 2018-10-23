@@ -1,0 +1,31 @@
+**Instalar wamp server**  //https://sourceforge.net/projects/wampserver/
+
+Habilitar las extensiones para postgresql y socket
+php_pdo_pgsql
+php_pgsql
+php_sockets
+
+
+Ubicar el poroyecto en el servidor web
+
+**Instalar Postgresql9.3**    //https://www.enterprisedb.com/thank-you-downloading-postgresql?anid=1255948
+**Instalar PGAdminIII**    //https://www.postgresql.org/ftp/pgadmin/pgadmin3/v1.22.2/win32/
+
+crear la base de datos y hacer el restore respectivo
+
+Verificar que los servicios estén automáticos
+
+Configurar credenciales de acuerdo a la instalación
+
+script_path.js configurar
+
+Modificar el .bat que apunte a la ruta del php que se está ejecutando 
+y a la carpeta donde esté el proyecto
+
+Verificar el puerto en el servidor que se va a trabajar los sockets
+
+modificar el puerto e ip del servidor en socket.js de acuerdo al servidor
+
+abrir el puerto utilizado para sockets
+
+Incicializar sockets o crear Tarea programada

@@ -1,0 +1,57 @@
+.turnosClsTurno{
+    min-height: 120px;
+    max-height: 120px;
+    cursor: pointer;
+    font-size:1.2em;
+}
+.turnosClsPadding30{
+    padding-top: 30px;
+}
+#esperaFotoNuevoFoto{
+    max-height: 100%;max-width: 100px
+}
+.turnosBotones{
+    margin-bottom: 30px;
+}
+.puntero{
+    cursor: pointer;  
+}
+#esperaThEncabezadoModulo,#esperaThEncabezadoTurno{
+    font-size: 1.5em;
+}
+#esperaDivTurno{
+    border: #d2d6de solid 1px;
+    border-collapse: inherit;
+}
+#esperaDivContenidoInformacion{
+    border-left: #d2d6de solid 1px;
+    margin: -10px;
+    margin-left: 0px;
+}
+#esperaDivContenidoVideo{
+    padding: 0px;
+
+}
+#esperaVideoNuevoVideo{
+    width: 100%;
+}
+#esperaDivContenidoFechaHora{
+    padding-top: 15px;
+}
+#esperaDivContenidoMensajeFooter{
+   color: #fff;
+}
+#esperaDivTurno{
+    height: auto;
+}
+#esperaTblTurnos{
+    margin-bottom: 0px;
+    background-color: #fff !important;
+    color :#000 !important;
+}
+#esperaTblTurnos>*{
+    color :#000 !important;
+}
+.general-padding-cero{
+    padding: 0px !important;
+}

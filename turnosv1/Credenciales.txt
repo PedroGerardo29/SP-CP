@@ -1,0 +1,7 @@
+Para la base de datos
+bd: HRO
+
+Usuario Administrador Hospital Regional de Occidente
+
+User: 7931 3636
+pass: HR0cc1d3nt3!*

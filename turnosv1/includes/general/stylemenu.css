@@ -1,0 +1,47 @@
+.background-gris{
+    background-color: rgb(236, 240, 245);
+    color: #000 !important;
+}
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #3c8dbc;
+}
+
+.text-white{
+    color: #fff !important;
+}
+
+bg-primary {
+    color: #fff;
+    background-color: #337ab7 !important;
+}
+
+#esperaDivContenidoInformacion {
+    border-left: #d2d6de solid 1px;
+    margin: -10px;
+    margin-left: 0px;
+}
+
+@media (max-width: 991px) {
+    #esperaDivContenidoInformacion {
+        border-left: 0px;
+        margin: 0px;
+        margin-left: 0px;
+    }
+}
+@media (min-width:992px) {
+    #esperaDivContenidoInformacion {
+        border: 0px;
+        margin: -10px;
+        margin-left: 0px;
+    }
+}
+
+#esperaDivContenidoMensajeFooter{
+    border: 0px;
+}
+#turnosDivContenedorCabecera {
+    border-bottom: 1px solid #3c8dbc !important;
+}
+.bg-botonturno{
+        background-color: #dd4b39 !important;
+}

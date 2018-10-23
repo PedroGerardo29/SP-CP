@@ -1,0 +1,6 @@
+.clientesClsCampoOculto{
+   display: none 
+}
+#clientesTxtFiltroBusqueda{
+    width: 150px;
+}
